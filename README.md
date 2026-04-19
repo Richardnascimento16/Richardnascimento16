@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End/Front-End`**
 
-Me chamo Larissa Richard do Nascimento, tenho 19 anos e sou natural de Brasilia. Concluí o ensino médio na Fundação Bradesco, Assim que terminei começei o curso Técnico em Informática onde me Encontro no 2º Módulo. Sempre fui atraído por tecnologia e no terceiro ano do Ensino Médio eu finalmente resolvi entrar no mundo da Programação onde estou me desenvolvendo.
+Me chamo Richard do Nascimento, tenho 19 anos e sou natural de Brasilia. Concluí o ensino médio na Fundação Bradesco, Assim que terminei começei o curso Técnico em Informática onde me Encontro no 2º Módulo. Sempre fui atraído por tecnologia e no terceiro ano do Ensino Médio eu finalmente resolvi entrar no mundo da Programação onde estou me desenvolvendo.
 
 ---
 
