@@ -54,7 +54,7 @@ Me chamo Larissa Richard do Nascimento, tenho 19 anos e sou natural de Brasilia.
     title="Sql"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://br.freepik.com/icones/sql)" 
+    src="https://br.freepik.com/icones/sql" 
 />
 
 <br/>
